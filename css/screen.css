@@ -46,6 +46,26 @@ a:visited {
   color: #a0a;
 }
 
+sup, sub {
+  line-height: 1em;
+}
+
+sup {
+  vertical-align: super;
+  font-size: smaller;
+}
+
+sup.reference {
+  font-weight: normal;
+  font-style: normal;
+}
+
+sub {
+  vertical-align: sub;
+  font-size: smaller;
+}
+
+
 table {
   font-size: inherit;
   font: 100%;
