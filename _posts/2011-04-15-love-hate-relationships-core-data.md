@@ -44,7 +44,7 @@ I ended up implementing the approach that describes how to [maintain and synchro
 
 
 
----
+
 
 <small>
 
@@ -73,3 +73,23 @@ I ended up implementing the approach that describes how to [maintain and synchro
 [7]:http://www.timisted.net/blog/archive/multiple-managed-object-contexts-with-core-data/
 
 [8]:http://www.cocoabuilder.com/archive/cocoa/293250-nsmanagedobjectcontextdidsavenotification-across-mocs-on-two-threads.html#293295
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'patcoll'; // required: replace example with your forum shortname
+
+    // The following are highly recommended additional parameters. Remove the slashes in front to use.
+    var disqus_identifier = '2011-04-15-love-hate-relationships-core-data';
+    var disqus_url = 'http://www.patcoll.com/2011/04/15/love-hate-relationships-core-data.html';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
