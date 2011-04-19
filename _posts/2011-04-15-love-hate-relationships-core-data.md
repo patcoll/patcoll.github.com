@@ -8,7 +8,7 @@ title: "Love and Hate Relationships: Core Data"
 
 <p class="meta">15 April 2011 - Pittsburgh</p>
 
-I have been working with a lot of Objective-C and Cocoa for iOS lately, [for good reason][1].
+I have been working with a lot of Objective-C and Cocoa for iOS lately.
 
 The joys and sorrows of Cocoa have evened themselves out, mostly.
 
@@ -57,8 +57,6 @@ I ended up implementing the approach that describes how to [maintain and synchro
     * [NSManagedObjectContextDidSaveNotification across MOCs on two threads][8]
 
 </small>
-
-[1]:http://www.itunes.com/app/axess
 
 [2]:http://ridiculousfish.com/blog/archives/2005/12/23/array/
 
